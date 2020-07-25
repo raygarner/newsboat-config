@@ -2,6 +2,7 @@
 #auto-reload yes
 
 #external-url-viewer "urlscan -dc -r 'linkhandler {}'"
+#external-url-viewer brave
 
 bind-key j down
 bind-key k up
@@ -30,6 +31,8 @@ color info red black bold
 color article white default bold
 
 browser brave
+macro y set browser "mpv %u" ; open-in-browser ; set browser brave
+#macro o set browser brave; open-in-browser
 #browser linkhandler
 #macro , open-in-browser
 #macro t set browser "qndl" ; open-in-browser ; set browser linkhandler
