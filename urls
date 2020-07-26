@@ -8,15 +8,16 @@ https://www.archlinux.org/feeds/news/ news text
 #https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA "~Computerphile YT"~
 https://www.youtube.com/feeds/videos.xml?channel_id=UCKTehwyGCKF-b2wo0RKwrcg yt "~Bisquit YT"~
 #https://www.youtube.com/feeds/videos.xml?channel_id=UCAYKj_peyESIMDp5LtHlH2A "~unfa YT"~
-#https://www.youtube.com/feeds/videos.xml?channel_id=UCZrrEuHiQjN2CUo84g5tk7w "~tripcode!Q/7 YT"~
+https://www.youtube.com/feeds/videos.xml?channel_id=UCZrrEuHiQjN2CUo84g5tk7w yt "~tripcode!Q/7 YT"~
 #https://www.youtube.com/feeds/videos.xml?channel_id=UCfhSB16X9MXhzSFe_H7XbHg "~Bryan Jenks YT"~
 #https://www.youtube.com/feeds/videos.xml?channel_id=UCGJaDZC7PChgd-XMwcbZkiw "~Rocket Jump Ninja YT"~
-#https://www.youtube.com/feeds/videos.xml?channel_id=UCf93fPKwotph47H3_KDcRyg "~Kris Occhipinti YT"~
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCf93fPKwotph47H3_KDcRyg yt "~Kris Occhipinti YT"~
 #https://www.youtube.com/feeds/videos.xml?channel_id=UCeQhZOvNKSBRU0Mdg7V44wA "~Hopson YT"~
 #https://www.youtube.com/feeds/videos.xml?channel_id=UCwgKmJM4ZJQRJ-U5NjvR2dg "~commaai archive YT"~
-#https://www.youtube.com/feeds/videos.xml?channel_id=UCl2mFZoRqjw_ELax4Yisf6w "~Louis Rossmann YT"
-#https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg "~DistroTube YT"
-#https://www.youtube.com/feeds/videos.xml?channel_id=UCSHZKyawb77ixDdsGog4iWA "~Lex Fridman YT"
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCl2mFZoRqjw_ELax4Yisf6w yt "~Louis Rossmann YT"
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg yt "~DistroTube YT"
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCSHZKyawb77ixDdsGog4iWA yt "~Lex Fridman YT"
+https://filmsbykris.com/rss.xml
 
 --COMEDY--
 https://www.youtube.com/feeds/videos.xml?channel_id=UC20VZGwGMRM7hv_OWb5QQvw yt "~Frank Hassle YT"
@@ -28,7 +29,7 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UC0pTNUlwUFLyLsKiCFzySjA yt 
 https://www.youtube.com/feeds/videos.xml?channel_id=UCTU7zMqyCsIcaYWwtjemYoQ yt "~Bizonacci YT"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCyDASB_XuJ5PAZdHkaPrlPQ yt "~Andy Ruse YT"
 https://www.youtube.com/feeds/videos.xml?channel_id=UC0KkQzV-XvTLTToZbs2PrBw yt "~lil shitpost [MDE.TV] YT"
-https://www.youtube.com/feeds/videos.xml?channel_id=UC3yqkd0pi4feA6lkNNA3Oqw yt "~Alienmode YT"
+#https://www.youtube.com/feeds/videos.xml?channel_id=UC3yqkd0pi4feA6lkNNA3Oqw yt "~Alienmode YT"
 https://www.youtube.com/feeds/videos.xml?channel_id=UC0a8nteER_pU4Aj6hmEyJAQ yt "~kliksphilip YT"
 
 #--MUSIC--
@@ -45,19 +46,20 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UC0a8nteER_pU4Aj6hmEyJAQ yt 
 #https://nitter.net/aldimeolamusic/rss "~Al Di Meola Tw"
 #https://nitter.net/greghoweguitar/rss "~Greg Howe Tw"
 
-#--CHESS--
-#https://www.youtube.com/feeds/videos.xml?channel_id=UCL5YbN5WLFD8dLIegT5QAbA "~agadmator's chess channel YT"
+--CHESS--
+https://www.youtube.com/feeds/videos.xml?channel_id=UCL5YbN5WLFD8dLIegT5QAbA yt "~agadmator's chess channel YT"
 
 --FITNESS--
 https://www.youtube.com/feeds/videos.xml?channel_id=UCLs8z7b4Mc6jn4ddU9mURYw yt "~The Delray Misfits YT"
 https://delraymisfitspodcast.com/rss-feed podcast text
 
---LIFESTYLE/PHILOSOPHY--
+--PHILOSOPHY--
 https://www.youtube.com/feeds/videos.xml?channel_id=UCLM6JlQkQ9tltBL9Bipci9g yt "~Marie Cachet YT"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCDgSHG640xfj5BAaztJcxVg yt "~Ancestral Cult YT"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCGe8kzr_18FIOzjkmzGzzuA yt "~Keith Woods YT"
 https://notrelated.libsyn.com/rss podcast text
 https://thuleanperspective.com/feed/ text
+#https://shaunattwood.com/feed/ text
 #https://www.youtube.com/feeds/videos.xml?channel_id=UC5iNSo8ml7fq31t3K6m5Vgw "~Maximus Ironthumper YT"
 #https://www.youtube.com/feeds/videos.xml?channel_id=UC5rT7F0PGNuD54rJ9kzgWzw "~Kris Harbour Natural Building YT"
 #https://www.youtube.com/feeds/videos.xml?channel_id=UCq3CjAhR9foEpCXj88sMAKQ "~Survival Russia YT"
