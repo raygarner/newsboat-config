@@ -32,8 +32,8 @@ color article white default bold
 
 browser brave
 #macro y set browser "mpv %u" ; open-in-browser ; set browser brave
-macro y set browser "mpv --loop %u"
-macro o set browser brave
+macro m set browser "mpv --loop %u"
+macro b set browser brave
 #browser linkhandler
 #macro , open-in-browser
 #macro t set browser "qndl" ; open-in-browser ; set browser linkhandler
