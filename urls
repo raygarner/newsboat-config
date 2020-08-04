@@ -4,7 +4,7 @@ https://lukesmith.xyz/rss.xml blog text
 https://www.youtube.com/feeds/videos.xml?channel_id=UC7YOGHUfC1Tb6E4pudI9STA "Mental Outlaw"
 https://www.archlinux.org/feeds/news/ news text
 https://www.youtube.com/feeds/videos.xml?channel_id=UCsnGwSIHyoYN0kiINAGUKxg "Wolfgang's Channel"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA "Brodie Robertson"
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA "Brodie Robertson"
 https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA "Computerphile"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCKTehwyGCKF-b2wo0RKwrcg yt "Bisquit"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCZrrEuHiQjN2CUo84g5tk7w yt "tripcode!Q/7"
@@ -39,9 +39,9 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCAxjsy2pi60McHY3jhZUigg "Zw
 https://www.youtube.com/feeds/videos.xml?channel_id=UCVAE3R1A1Ketudt-0-idAUg yt "Matteo Mancuso"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCV9fC4eJ_8-em0iWsugn1XQ yt a2b2
 
-(0/0)
----CHESS---
-https://www.youtube.com/feeds/videos.xml?channel_id=UCL5YbN5WLFD8dLIegT5QAbA yt "agadmator's chess channel"
+#(0/0)
+#---CHESS---
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCL5YbN5WLFD8dLIegT5QAbA yt "agadmator's chess channel"
 
 (0/0)
 ---FITNESS---
