@@ -1,12 +1,13 @@
 https://projects.cs.nott.ac.uk/COMP2002/2020-2021/team11_project/commits/master?feed_token=YtNMqDZwdBxp7fssm8Yx&format=atom
 https://projects.cs.nott.ac.uk/COMP2002/2020-2021/team11_project/commits/dev?feed_token=YtNMqDZwdBxp7fssm8Yx&format=atom
+https://projects.cs.nott.ac.uk/COMP2002/2020-2021/team11_project/-/tags?feed_token=YtNMqDZwdBxp7fssm8Yx&format=atom
 
 #---COMPUTERS---
-https://lukesmith.xyz/youtube.xml
+https://lukesmith.xyz/youtube.xml "~Luke Smith Youtube"
 https://videos.lukesmith.xyz/feeds/videos.xml?videoChannelId=982 "~Luke's Recommended Documentaries"
 https://notrelated.libsyn.com/rss podcast text
-#https://videos.lukesmith.xyz/feeds/videos.xml?accountId=3
-https://lukesmith.xyz/rss.xml blog text
+https://videos.lukesmith.xyz/feeds/videos.xml?accountId=3 "~Luke Smith PeerTube"
+https://lukesmith.xyz/rss.xml blog text "~The Latest from Luke"
 #https://www.youtube.com/feeds/videos.xml?channel_id=UC7YOGHUfC1Tb6E4pudI9STA "Mental Outlaw"
 https://www.archlinux.org/feeds/news/ news text
 #https://www.youtube.com/feeds/videos.xml?channel_id=UCsnGwSIHyoYN0kiINAGUKxg "Wolfgang's Channel"
@@ -31,7 +32,7 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCfUaZ8Ra7m7BqUEACv2jySw yt 
 https://www.bitchute.com/feeds/rss/channel/Silverware
 http://www.bitchute.com/feeds/rss/channel/frankhassle
 https://www.youtube.com/feeds/videos.xml?channel_id=UCESJ9OcbWsRm5VKWPJdl7eQ yt "Bombstrap"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCroONRF0s2qmow4bhA3Jwng yt "C. dogg"
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCroONRF0s2qmow4bhA3Jwng yt "C. dogg"
 #https://www.youtube.com/feeds/videos.xml?channel_id=UCm2pbaivKA-9poyXZ4rexrw "BG Kumbi"
 #https://www.youtube.com/feeds/videos.xml?channel_id=UC0pTNUlwUFLyLsKiCFzySjA yt "Bizonacci II"
 #https://www.youtube.com/feeds/videos.xml?channel_id=UCTU7zMqyCsIcaYWwtjemYoQ yt "Bizonacci"
@@ -45,7 +46,7 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCtz2iyePNjyvB08vRmB4lJw yt 
 #https://www.youtube.com/feeds/videos.xml?channel_id=UCLs8z7b4Mc6jn4ddU9mURYw yt "The Delray Misfits"
 #https://delraymisfitspodcast.com/rss-feed
 #https://www.youtube.com/feeds/videos.xml?channel_id=UCjk7B2jkHGykr4F9Uu_UTLg "Big Lenny"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCZD2qRU8J82XGdGdUWYneNQ "The Weasel"
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCZD2qRU8J82XGdGdUWYneNQ "The Weasel"
 #https://www.youtube.com/feeds/videos.xml?channel_id=UCL2VR6aVxWDUY34usexCaHQ "Full Reptile"
 
 #(0/0)
@@ -77,7 +78,7 @@ https://myfarog.org/feed/ text
 https://basicfantasy.org/blog/?feed=rss2 text
 #https://radishmag.wordpress.com/feed/
 https://www.youtube.com/feeds/videos.xml?channel_id=UCHXnesw0YDovA1HRercHGVQ "Charls Carroll"
-https://nitter.net/goodcharls/rss
+#https://nitter.net/goodcharls/rss
 #https://www.youtube.com/feeds/videos.xml?channel_id=UCZAENaOaceQUMd84GDc26EA SurviveTheJive
 #https://www.youtube.com/feeds/videos.xml?channel_id=UCJpN-GBTchQaSVwBbefYMNg ForgottenRoots
 
@@ -97,5 +98,5 @@ https://nitter.net/goodcharls/rss
 
 #(0/0)
 #---HISTORY---
-https://www.youtube.com/feeds/videos.xml?channel_id=UCfCKvREB11-fxyotS1ONgww yt "Mark Felton Productions"
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCfCKvREB11-fxyotS1ONgww yt "Mark Felton Productions"
 #https://www.youtube.com/feeds/videos.xml?channel_id=UCR3L1IGpxPDuHWQjqfz608g yt "Mark Felton War Stories"
