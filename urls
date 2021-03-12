@@ -2,11 +2,16 @@
 
 
 
+---TEAM11---
 https://projects.cs.nott.ac.uk/COMP2002/2020-2021/team11_project/commits/master?feed_token=YtNMqDZwdBxp7fssm8Yx&format=atom
 https://projects.cs.nott.ac.uk/COMP2002/2020-2021/team11_project/commits/dev?feed_token=YtNMqDZwdBxp7fssm8Yx&format=atom
+https://projects.cs.nott.ac.uk/COMP2002/2020-2021/team11_project/commits/common?feed_token=YtNMqDZwdBxp7fssm8Yx&format=atom
+https://projects.cs.nott.ac.uk/COMP2002/2020-2021/team11_project/commits/atw_user?feed_token=YtNMqDZwdBxp7fssm8Yx&format=atom
+https://projects.cs.nott.ac.uk/COMP2002/2020-2021/team11_project/commits/sw?feed_token=YtNMqDZwdBxp7fssm8Yx&format=atom
 https://projects.cs.nott.ac.uk/COMP2002/2020-2021/team11_project/-/tags?feed_token=YtNMqDZwdBxp7fssm8Yx&format=atom
 
-#---COMPUTERS---
+(0/0)
+---COMPUTERS---
 #https://lukesmith.xyz/youtube.xml "~Luke Smith Youtube"
 #https://videos.lukesmith.xyz/feeds/videos.xml?videoChannelId=982 "~Luke's Recommended Documentaries"
 https://notrelated.libsyn.com/rss podcast text
@@ -14,7 +19,7 @@ https://videos.lukesmith.xyz/feeds/videos.xml?accountId=3 "~Luke Smith PeerTube"
 https://lukesmith.xyz/rss.xml blog text "~The Latest from Luke"
 https://www.youtube.com/feeds/videos.xml?channel_id=UC7YOGHUfC1Tb6E4pudI9STA "Mental Outlaw"
 https://www.archlinux.org/feeds/news/ news text
-https://www.youtube.com/feeds/videos.xml?channel_id=UCsnGwSIHyoYN0kiINAGUKxg "Wolfgang's Channel"
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCsnGwSIHyoYN0kiINAGUKxg "Wolfgang's Channel"
 #https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA "Brodie Robertson"
 https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA "Computerphile"
 #https://www.youtube.com/feeds/videos.xml?channel_id=UCQly2ZxY-CHqwG7pO-xOy5Q "Bob Laramee"
@@ -24,15 +29,19 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCZrrEuHiQjN2CUo84g5tk7w yt 
 #https://www.youtube.com/feeds/videos.xml?channel_id=UCfhSB16X9MXhzSFe_H7XbHg "Bryan Jenks"
 #https://www.youtube.com/feeds/videos.xml?channel_id=UCf93fPKwotph47H3_KDcRyg yt "Kris Occhipinti"
 #https://www.youtube.com/feeds/videos.xml?channel_id=UCwgKmJM4ZJQRJ-U5NjvR2dg "commaai archive"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCl2mFZoRqjw_ELax4Yisf6w yt "Louis Rossmann"
+#https://www.youtube.com/feeds/videos.xml?channel_id=UCl2mFZoRqjw_ELax4Yisf6w yt "Louis Rossmann"
 #https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg yt "DistroTube"
 https://filmsbykris.com/rss.xml
 https://suckless.org/atom.xml
+https://www.youtube.com/feeds/videos.xml?channel_id=UCCuoqzrsHlwv1YyPKLuMDUQ yt "Johnathan Blow"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCwgKmJM4ZJQRJ-U5NjvR2dg yt "Geohot archive"
+https://geohot.github.io/blog/feed.xml
 
-#(0/0)
-#---ENTERTAINMENT---
+(0/0)
+---ENTERTAINMENT---
 #https://www.youtube.com/feeds/videos.xml?channel_id=UC20VZGwGMRM7hv_OWb5QQvw yt "Frank Hassle"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCfUaZ8Ra7m7BqUEACv2jySw yt "HydeWars"
+https://nitter.42l.fr/wigger/rss "Sam Hyde Twitter"
 https://www.bitchute.com/feeds/rss/channel/Silverware
 http://www.bitchute.com/feeds/rss/channel/frankhassle
 https://www.youtube.com/feeds/videos.xml?channel_id=UCESJ9OcbWsRm5VKWPJdl7eQ yt "Bombstrap"
@@ -42,8 +51,6 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCroONRF0s2qmow4bhA3Jwng yt 
 #https://www.youtube.com/feeds/videos.xml?channel_id=UCTU7zMqyCsIcaYWwtjemYoQ yt "Bizonacci"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCyDASB_XuJ5PAZdHkaPrlPQ yt "Andy Ruse"
 https://www.youtube.com/feeds/videos.xml?channel_id=UC0KkQzV-XvTLTToZbs2PrBw yt "lil shitpost [MDE.TV]"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCycYFBnOw1herRLq6jxAfOQ yt "MDE old advice bits only"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCiUkcNS6W0n8QdosuZASduQ yt "The new pill"
 https://www.youtube.com/feeds/videos.xml?channel_id=UC3yqkd0pi4feA6lkNNA3Oqw yt "Alienmode"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCtz2iyePNjyvB08vRmB4lJw yt "MDE Fan Channel"
 https://www.youtube.com/feeds/videos.xml?channel_id=UC0a8nteER_pU4Aj6hmEyJAQ yt "kliksphilip"
@@ -53,8 +60,8 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCjk7B2jkHGykr4F9Uu_UTLg "Bi
 https://www.youtube.com/feeds/videos.xml?channel_id=UCZD2qRU8J82XGdGdUWYneNQ "The Weasel"
 #https://www.youtube.com/feeds/videos.xml?channel_id=UCL2VR6aVxWDUY34usexCaHQ "Full Reptile"
 
-#(0/0)
-#---MUSIC---
+(0/0)
+---MUSIC---
 http://fetchrss.com/rss/5fcf68abb439ae2bf3259d425fcf6825dde5666c40290702.atom "Harry soundcloud"
 http://fetchrss.com/rss/5fcf68abb439ae2bf3259d425fcf691aed019f13186a3502.xml "Edie soundcloud"
 http://fetchrss.com/rss/5fcf68abb439ae2bf3259d425fcf694d22f8442e1e2dc0b3.xml "Sean soundcloud"
@@ -63,49 +70,59 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCC0eq_e51FB-_BIbtd9NGTw yt 
 https://www.youtube.com/feeds/videos.xml?channel_id=UCuq1H-HXWoW4JL-hX5bWxzw yt "Death Grips"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCAxjsy2pi60McHY3jhZUigg "Zwilly Records"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCVAE3R1A1Ketudt-0-idAUg yt "Matteo Mancuso"
-#https://www.youtube.com/feeds/videos.xml?channel_id=UCV9fC4eJ_8-em0iWsugn1XQ yt a2b2
-#https://www.youtube.com/feeds/videos.xml?channel_id=UCzn6jxg-ZY3QaDN-6Q5FQEg "Achim Kohl"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCV9fC4eJ_8-em0iWsugn1XQ yt a2b2
+https://www.youtube.com/feeds/videos.xml?channel_id=UCzn6jxg-ZY3QaDN-6Q5FQEg "Achim Kohl"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCh0TKAEpWen0DC-GTC5Sl8A "freddym223"
 
 #(0/0)
 #---CHESS---
 #https://www.youtube.com/feeds/videos.xml?channel_id=UCL5YbN5WLFD8dLIegT5QAbA yt "agadmator's chess channel"
 
-#(0/0)
-#---PHILOSOPHY---
-#https://www.youtube.com/feeds/videos.xml?channel_id=UCjeBrzvxpiQ8Bo2PoASrCvA "Andrew Collura"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCLM6JlQkQ9tltBL9Bipci9g yt "Marie Cachet"
+(0/0)
+---PHILOSOPHY---
+https://www.youtube.com/feeds/videos.xml?channel_id=UCjeBrzvxpiQ8Bo2PoASrCvA "Andrew Collura"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCDgSHG640xfj5BAaztJcxVg yt "Ancestral Cult"
 https://thuleanperspective.com/feed/ text
-https://atlanteangardens.blogspot.com/feeds/posts/default
-https://www.youtube.com/feeds/videos.xml?channel_id=UCMqG0kLgrRv9tODTDG12oZA "Robert Sepehr"
-https://www.youtube.com/feeds/videos.xml?channel_id=UC0gkKMGpCgyun7OoEOseryg "Atlantean Gardens"
-#https://www.youtube.com/feeds/videos.xml?channel_id=UCGe8kzr_18FIOzjkmzGzzuA yt "Keith Woods"
-https://myfarog.org/feed/ text
-https://basicfantasy.org/blog/?feed=rss2 text
-https://www.youtube.com/feeds/videos.xml?channel_id=UCwN-P6QjnXevf0FEPLyQUaw "Chris Gonnerman"
+https://nitter.42l.fr/GandalftheWhi19/rss
+https://nitter.42l.fr/CachetMarie/rss
+https://www.youtube.com/feeds/videos.xml?channel_id=UCGe8kzr_18FIOzjkmzGzzuA yt "Keith Woods"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCREM9VRZnIJHTw-oqfwgNUQ "History Debunked"
 #https://radishmag.wordpress.com/feed/
 https://www.youtube.com/feeds/videos.xml?channel_id=UCHXnesw0YDovA1HRercHGVQ "Charls Carroll"
+https://nitter.42l.fr/goodcharls/rss
 #https://nitter.net/goodcharls/rss
-https://www.youtube.com/feeds/videos.xml?channel_id=UCZAENaOaceQUMd84GDc26EA SurviveTheJive
 https://www.youtube.com/feeds/videos.xml?channel_id=UCJpN-GBTchQaSVwBbefYMNg ForgottenRoots
+https://www.youtube.com/feeds/videos.xml?channel_id=UCycYFBnOw1herRLq6jxAfOQ yt "MDE old advice bits only"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCiUkcNS6W0n8QdosuZASduQ yt "The new pill"
 
-#(0/0)
-#---DIY---
-#https://www.youtube.com/feeds/videos.xml?channel_id=UCq3CjAhR9foEpCXj88sMAKQ "Survival Russia"
+(0/0)
+---TTRPG---
+https://myfarog.org/feed/ text
+https://nitter.42l.fr/WargarW/rss
+https://basicfantasy.org/blog/?feed=rss2 text
+https://www.youtube.com/feeds/videos.xml?channel_id=UCwN-P6QjnXevf0FEPLyQUaw "Chris Gonnerman"
+
+(0/0)
+---DIY---
+https://www.youtube.com/feeds/videos.xml?channel_id=UCq3CjAhR9foEpCXj88sMAKQ "Survival Russia"
 #https://www.youtube.com/feeds/videos.xml?channel_id=UCAL3JXZSzSm8AlZyD3nQdBA PrimitiveTech
 https://www.youtube.com/feeds/videos.xml?channel_id=UC5rT7F0PGNuD54rJ9kzgWzw KrisHarbor
 https://www.youtube.com/feeds/videos.xml?channel_id=UC5iNSo8ml7fq31t3K6m5Vgw MaximusIronthumper
+https://www.youtube.com/feeds/videos.xml?channel_id=UCLM6JlQkQ9tltBL9Bipci9g yt "Marie Cachet"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCUf1_Z8kfpNt7nrGK2fa-aQ EscapingTheMatrix
 
-#(0/0)
-#---WEAPONSANDSTUFF---
-#https://www.youtube.com/feeds/videos.xml?channel_id=UCAbwEStxHetWMGvaq9FIF_w Weaponsandstuff93
-#https://www.youtube.com/feeds/videos.xml?channel_id=UC6QH13V2o68zynSa0hZy9uQ PaulHarrel
+(0/0)
+---WEAPONSANDSTUFF---
+https://www.youtube.com/feeds/videos.xml?channel_id=UCAbwEStxHetWMGvaq9FIF_w Weaponsandstuff93
+https://www.youtube.com/feeds/videos.xml?channel_id=UC6QH13V2o68zynSa0hZy9uQ PaulHarrel
 #https://www.youtube.com/feeds/videos.xml?channel_id=UCZOhMveylz2eyjIdG6SehJg AdamCeladin
-#https://www.youtube.com/feeds/videos.xml?channel_id=UC2I6Et1JkidnnbWgJFiMeHA SteveMRE
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2I6Et1JkidnnbWgJFiMeHA SteveMRE
 
-#(0/0)
-#---HISTORY---
+(0/0)
+---HISTORY---
 https://www.youtube.com/feeds/videos.xml?channel_id=UCfCKvREB11-fxyotS1ONgww yt "Mark Felton Productions"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCR3L1IGpxPDuHWQjqfz608g yt "Mark Felton War Stories"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCZAENaOaceQUMd84GDc26EA SurviveTheJive
+https://www.youtube.com/feeds/videos.xml?channel_id=UC0gkKMGpCgyun7OoEOseryg "Atlantean Gardens"
+https://atlanteangardens.blogspot.com/feeds/posts/default
+https://www.youtube.com/feeds/videos.xml?channel_id=UCMqG0kLgrRv9tODTDG12oZA "Robert Sepehr"
